@@ -1,1 +1,1 @@
-# Market-Regime-Detection-and-Switch-Risk
+# Market-Regime-Detection-and-Switching-Risk
