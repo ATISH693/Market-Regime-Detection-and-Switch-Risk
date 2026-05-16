@@ -1,4 +1,4 @@
-# Market-Regime-Detection-and-Switching-Risk
+# Financial-Market-Regime-Detection-and-Risk-Modelling
 
 # Market Regime Detection and Switching Risk
 
