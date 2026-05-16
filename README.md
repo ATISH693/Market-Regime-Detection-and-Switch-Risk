@@ -1,6 +1,5 @@
 # Financial-Market-Regime-Detection-and-Risk-Modelling
 
-# Market Regime Detection and Switching Risk
 
 AI-based financial market regime detection using **K-Means Clustering** and **Hidden Markov Models (HMM)** on S&P 500 time series data.
 
